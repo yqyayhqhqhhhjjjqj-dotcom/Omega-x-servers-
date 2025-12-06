@@ -1,0 +1,15 @@
+{
+  "name": "omegle-ws",
+  "version": "1.0.0",
+  "description": "Simple pairing websocket server for Omega X",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": "18.x"
+  },
+  "dependencies": {
+    "ws": "^8.0.0"
+  }
+}
